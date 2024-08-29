@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/sriram262702/Leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/sriram262702/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sriram262702/Leetcode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/sriram262702/Leetcode/tree/master/0620-not-boring-movies) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sriram262702/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/sriram262702/Leetcode/tree/master/1827-invalid-tweets) |
 ## Math
