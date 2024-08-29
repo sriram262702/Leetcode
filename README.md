@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/sriram262702/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/sriram262702/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sriram262702/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/sriram262702/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sriram262702/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sriram262702/Leetcode/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sriram262702/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
